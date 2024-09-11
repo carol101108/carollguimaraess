@@ -1,6 +1,2 @@
 # carollguimaraess
-petup() {
-  createCanvas(400, 400);
-}
-
-function d
+DOCTYPE html> 2 <html lang="en"> 3 <head> 4 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.8.0/p5. js"></script> <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.8.0/add ons/p5.sound.min.js"></script> <link rel="stylesheet" type="text/css" href="style.css"> <meta charset="utf-8" /> </head> 5 6 7 8 9 10 <body> 11 12 13 <main> </main> <script src-sketch is/scripts
